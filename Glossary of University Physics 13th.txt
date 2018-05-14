@@ -1,0 +1,1659 @@
+﻿中文目录
+力学
+1单位，物理量，向量
+2直线运动
+3二维或三维运动
+4运动的牛顿定律
+5应用牛顿定律
+6功和动能
+7势能和能量守恒
+8动量，冲量，碰撞
+9刚体的旋转
+10旋转运动的动力学
+11平衡和弹性
+12流体力学
+13引力
+14周期运动
+
+波/声学
+15机械波
+16声音和听觉
+
+热力学
+17温度和热量
+18物体的热力学性质
+19热力学第一定律
+20热力学第二定律
+
+电磁学
+21电荷和电场
+22高斯定律
+23电势
+24电容和电介质
+25电流，电阻，电动势
+26直流电路
+27磁场和磁力
+28磁场的来源
+29电磁感应
+30电感
+31交流电
+32电磁波
+
+光学
+33光的本质和传播
+34几何光学
+35干涉
+36衍射
+
+近代物理
+37相对论
+38光子：表现为粒子性的光波
+39表现为波动性的粒子
+40量子力学
+41原子结构
+42分子和凝聚态物质
+43核物理
+44粒子物理和宇宙学
+
+
+
+C1
+protractor量角器
+particle 微粒/粒子，有时与中文中的“质点”同义
+idealized model理想模型 A useful model is one that simplifies a problem enough to make it manageable, yet keeps its essential features.
+operational definition操作性定义 Some physical quantities are so fundamental that we can define them only by describing how to measure them. Such a definition is called an operational definition.
+scanning tunneling microscope描式隧道显微镜；扫描隧道电子显显镜：一种很牛逼，可以“看”到原子排布的显微镜
+scientific notation/powers-of-10 notation科学计数法
+rest energy静止能量
+rest mass静止质量
+joule焦耳
+displacement位移
+parallel向量平行（方向相同的）
+antiparallel方向相反的
+parallelogram平行四边形
+net force合力
+net displacement总位移
+right angle直角
+Pythagorean theorem毕达哥拉斯定理
+hypotenuse弦
+Cartesian笛卡尔主义的
+Descartes笛卡尔
+positive x-axis X轴正半轴
++x-axis X轴正半轴
+component分量
+component vectors分量矢量，即向量在坐标轴上的投影
+quadrant象限
+hat(^)“尖”
+scalar product直译为标量积，但一般译为数量积
+dot product点积
+vector product向量积
+cross product叉积
+torque力矩
+angular momentum角动量
+expand展开
+right-handed system右手系（一般的三维坐标系, i x j = k, etc.）相对地，左手系中i x j = -k, etc.
+direction cosine方向余弦
+
+
+
+C2
+free-fall problems自由落体运动
+frame of reference参考系
+mechanics力学，包括运动学和动力学
+kinematics运动学
+dynamics动力学
+average velocity平均速度
+instantaneous velocity瞬时速度
+speed速率
+distance路程
+second derivative二阶导数
+body物体
+inflection point拐点
+acceleration due to gravity重力加速度
+jerk加速度随时间的变化率
+curvature曲率
+
+
+
+C3
+projectile motion抛体运动
+uniform circular motion匀速圆周运动
+parallel/tangential切向
+radial（圆的）径向
+relative velocity相对速度
+reciprocal倒数
+tangent切线
+normal法线
+trajectory轨迹
+subscript下标
+centripetal向心的
+centripetal acceleration向心加速度
+revolution（环绕中心点的）旋转
+algebraic sum代数和
+right triangle直角三角形
+
+
+
+C4
+Newton’s laws of motion牛顿运动定律
+classical mechanics经典力学
+Newtonian mechanics牛顿力学
+inertial frame of reference惯性系
+mass质量
+contact force接触力
+normal force支持力，直译为正交力，即与接触面正交
+friction force摩擦力
+tension张力
+long-range force长程力
+proton质子
+electron电子
+neutron中子
+hadron强子
+spring balance弹簧秤
+superposition of forces力的叠加/力的合成
+vertical竖直
+perpendicular垂直
+horizontal水平
+parallel平行
+ramp坡道
+incline斜面
+slope斜坡；坡度
+inertia惯性
+equilibrium平衡
+Newton's first law牛顿第一定律/law of inertia惯性定律（见专题“惯性系”）
+top view俯视图
+inertial mass惯性质量（还有非惯性质量？和rest mass静质量是什么关系？）
+action–reaction pair成对作用力-反作用力
+free-body diagram受力图……emmm, 就是把一个物体单独拿出来受力分析
+thrust推力；驱动力
+be in equilibrium处于平衡状态
+
+We will use g = 9.80 m/s^{2} for problems set on the earth (or, if the other data in the problem are given to only two significant figures, g = 9.8 m/s^{2}.
+
+
+
+C5
+static friction静摩擦力
+kinetic friction滑动摩擦力
+rolling friction滚动摩擦力
+fluid resistance流体阻力
+four fundamental forces of nature四种基本自然力
+gravitational force引力
+apparent weight视重量，直译为显见重量，我认为更好的翻译是称量重量
+weightlessness失重
+coefficient of kinetic friction滑动摩擦系数
+circular arc圆弧
+centrifugal force离心力
+conical pendulum圆锥摆
+pendulum bob摆锤
+radioactive nucleus放射性原子核
+antineutrino反中微子
+beta decay β衰变
+radioactivity放射性
+cataclysmic explosion大爆炸
+supernova超新星（大爆炸）
+nova新星
+thermonuclear reaction热核反应
+hyperbolic sine/cosine/tangent双曲正弦/双曲余弦/双曲正切
+light/massless string/pulley/rod轻绳/轻滑轮/轻杆
+
+四种基本相互作用：
+gravitational interactions引力相互作用
+electromagnetic interactions电磁相互作用
+strong interactions强相互作用/strong nuclear force强核力
+weak interactions弱相互作用
+
+Smoothing the surfaces can actually increase friction, since more molecules are able to interact and bond.
+Friction forces can also depend on the speed of the body relative to the surface.
+
+
+
+C6
+work功
+kinetic energy/energy of motion动能
+power功率
+work-energy theorem动能定理（仅适用于惯性系；各惯性系中数值可能不同）
+average power平均功率
+instantaneous power瞬时功率
+principle of conservation of energy能量守恒原理
+chemical energy化学能
+thermal energy热能
+electromagnetic energy电磁能
+guide rail导轨
+composite systems复合系统
+force constant/sprint constant劲度系数；倔强系数；弹性系数
+Hooke's law胡克定律
+base底
+altitude高
+trapezoid梯形
+spring scale弹簧秤
+line integral曲线积分
+electrical energy电能
+
+We always speak of work done on a particular body by a specific force.
+
+
+
+C7
+potential energy势能
+energy conservation能量守恒
+mechanical energy机械能
+gravitational potential energy重力势能
+elastic potential energy弹性势能
+stretch/compress spring拉伸/压缩弹簧
+conservative force保守力
+nonconservative force非保守力
+internal energy内能
+glider滑块
+block物块
+conserved守恒的
+dissipative force耗散力
+counterclockwise逆时针的
+electric potential电势能
+repulsion斥力
+like eletric charges同种电荷
+partial derivative偏导数
+energy diagram能量图
+restoring force回复力
+potential well势阱/势井
+turning point转折点
+
+All forces are either conservative or nonconservative.
+
+
+
+C8
+elastic collision弹性碰撞
+inelastic collision非弹性碰撞
+completely inelastic collision完全非弹性碰撞
+center of mass质心
+internal force内力
+external force外力
+net external force合外力
+system of particles质点系
+weighted average加权平均
+law of conservation of momentum动量守恒定律
+linear momentum线性动量
+impulse-momentum theorem动量定理，直译为冲量-动量定律
+isolated system孤立系统（所受外力为零）
+make physical sense有物理意义
+coolant冷却剂
+moderator减速剂
+axis of symmetry对称轴
+macroscopic level宏观层面
+rigid body刚体
+odd/even function奇函数/偶函数
+integrand被积函数
+integral variable积分变量
+
+The momentum of a particle equals the impulse that accelerated it from rest to its present speed.
+
+
+
+C9
+angular coordinate角坐标（用一个theta作为参数，表示旋转）
+angular velocity角速度
+angular acceleration角加速度
+linear acceleration线加速度
+linear velocity线速度
+linear speed线速度大小
+angular velocity角速度
+angular speed角速度大小
+moment of inertia/rotational inertia转动惯量/质量惯性矩，简称惯性矩或惯距
+rotation axis旋转轴
+rotational kinetic energy角动能
+translational motion平移运动
+rotational motion旋转运动
+kinematic运动学的
+radian弧度
+average angular velocity平均角速度
+angular displacement角位移
+instantaneous angular velocity瞬时角速度
+rpm or rev/min = revolution per minute转/分，角速度单位
+parallel-axis theorem平行轴定理
+take the time derivative of ... 把……对时间求导数
+solid实心的
+thin-walled薄壁的
+infinitely many无穷多的
+regularly/irregularly shaped形状（不）规则的
+identity恒等式
+
+At any instant, every part of a rotating rigid body has the same angular velocity.
+
+
+
+C10
+angular momentum角动量
+gyroscope陀螺仪；回转仪
+precession旋进，又称进动；在天文学上称为岁差
+net torque合力矩
+translational平移的
+translation平移
+axis of symmetry对称轴
+lever arm/moment arm力臂
+line of action（力的）作用线，即力向量所在直线
+proportionality factor比例系数
+angular displacement角位移
+overhead view俯视图
+intergrand被积函数
+sense of rotation旋转的视角
+pivot支点
+
+moment广义的“矩”In principle, any physical quantity can be multiplied by distance to produce a moment; commonly used quantities include forces, masses, and electric charge distributions.(from wiki)乘以力就是力矩torque, 乘以质量就是转动惯量moment of inertia, 乘以电荷分布不知道是什么……
+torque转矩，或力矩，不妨理解成moment of force
+Physicists usually use the term "torque," while engineers usually use "moment" (unless they are talking about a rotating shaft).
+
+The quantitative measure of the tendency of a force to cause or change a body’s rotational motion is called torque.力矩是对 一个力引起或改变一个物体的旋转运动的趋势 的定量衡量。
+
+
+
+Note that the relationship vcm = (R * omega) holds only if there is rolling without slipping. When a drag racer first starts to move, the rear tires are spinning very fast even though the racer is hardly moving, so (R\omega) is greater than v_{cm}. If a driver applies the brakes too heavily so that the car skids, the tires will spin hardly at all and (R\omega) is less than vcm.车子正常行驶时，轮胎与地面间是滚动摩擦，即rolling without slipping. 赛车起步时，轮胎转速很快，但车几乎不动，这叫slipping打滑（转得快，动得慢），轮胎与地面间是滑动摩擦，v_{cm}小于(R\omega). 漂移时，轮胎被刹住，几乎不动，但车的移动速度很快，这叫sliding滑动（动得快，转得慢），轮胎与地面间是滑动摩擦，v_{cm}大于(R\omega),。这时车子类似于在平面上旋转中断线的小球（或：绳子突然伸长了），因为轮胎与地面间侧向的静摩擦力不够提供向心加速度（此时线速度很大，因此a_{rad}=v^{2}/R很大），变为滑动摩擦（摩擦力减小）。
+
+不知道我这个对叉积定义为右手法则的理解对不对：本质上是定义了一个将 一个由2个向量（确定1个平面） 投影为 1条有向直线，这条直线只要与原平面正交就行，而无所谓在何处正交（新直线的原点未必要与原向量的起点重合，甚至未必要在平面内），或以怎样的方式正交（如：从四维空间中看，可以有无数种正交方式，因为从三维空间看，1条直线和一个一维空间有无数种正交方式，不是说正交于不同的点，而是正交的角度不同），所以右手法则也好，左手法则也好，四维空间式的正交也好，都可以用来定义叉积，换句话说，叉积可以有无数种形式。
+
+
+
+C11
+conditions for equilibrium平衡条件
+center of gravity重心
+Hooke's law胡克定律
+stress应力
+strain应变
+elastic modulus(pl. moduli)弹性模量
+tensile(compressive) stress张应力，拉伸应力（压缩应力）。用tensile代指伸缩亦可
+tensile(compressive) strain张应变，拉伸应变（压缩应变）
+Young's modulus(Y)杨氏模量
+bulk stress体积应力
+bulk strain体积应变
+bulk modulus(B)体积弹性模量
+compressibility(k)压缩性
+shear stress切应力；剪应力
+shear strain剪切应变
+shear modulus(S)切变模量；剪模量；剪切模量
+tangent to a surface相切于某表面
+breaking stress/ultimate strength/tensile strength抗张强度/抗拉强度
+irreversible deformation不可恢复形变
+proportional limit比例极限
+elastic limit弹性极限
+elastic deformation弹性形变
+extended body扩展物体
+static equilibrium静态平衡
+dynamic equilibrium动态平衡
+contact force接触力
+physical dimension量纲
+dimensionless无量纲的
+yield point屈服点
+plastic deformation塑性形变
+vulcanized rubber硫化橡胶
+elastic hysteresis弹性滞后
+
+
+
+C12
+pressure in the fluid液体压强
+specific gravity比重/相对密度
+Pascal's law帕斯卡定律
+absolute pressure绝对压强
+gauge pressure相对压强（直译为仪表压强）
+elevation高度/y坐标值
+imcompressible liquid不可压缩液体
+buoyancy/buoyant force浮力
+Archimedes[ˌɑ:kiˈmi:di:z]'s principle阿基米德原理/浮力定律
+ideal fluid理想液体（不可压缩，无粘性）
+viscosity黏性；黏滞性（液体的内部摩擦internal friction）
+flow line流线（轨迹）
+flow tube流管
+streamline流线（速度）
+有两个流线，同名不同义，我也没办法
+laminar flow层流
+turbulent flow紊流
+continuity equation连续性方程
+cross section横截面
+cross-sectional area横截面积
+volume flow rate体积流率
+Bernoulli's equation伯努利方程
+flow speed流速
+steady flow稳流；定常流动(If the overall flow pattern does not change with time, the flow is called steady flow.)
+atmospheric pressure大气压强
+fluid of uniform density密度均匀的液体
+meteorology气象学
+milimeters of mercury(abbr. mmHg)毫米汞柱
+open-tube manometer开管流体压力计
+mercury barometer水银气压计
+Evangelista Torricelli托里拆利
+Bourdon pressure gauge Bourdon压力表
+helium氦；氦气
+dropper滴管
+go slack（绳）松掉
+surface tension表面张力
+membrane under tension张紧的薄膜
+efflux流出物
+speed of efflux流出速度
+Torricelli's theorm托里拆利定理
+Venturi meter文丘里量计；文氏管流量计
+lift升力
+vortex(pl. vortices)/whirlpool/eddy旋涡
+spoiler扰流板
+pressure difference压强差
+stethoscope听诊器
+siphon虹吸管
+
+
+
+C13
+Newton's law of gravitation牛顿万有引力定律
+gravitational force引力
+gravitational constant(G)引力常量
+planet行星
+star恒星
+gravitational potential energy重力势能
+weight重量
+be directly/inversely proportional to与……成正比/反比
+satellite人造卫星；卫星
+circular/elliptical orbit圆形轨道
+Kepler's three laws开普勒三定律
+Schwardschild radius史瓦西半径
+spherical shell球壳
+Cavendish torsion balance卡文迪许扭秤
+a 45°right trangle有一个角为45°的直角三角形
+event horizen事界
+gravitational field引力场
+apparent weight视重
+escape speed逃逸速度
+closed/open orbit闭合/开放轨道
+apparent weightlessness失重
+semi-major axis(a)半长轴
+semi-minor axis(b)半短轴
+eccentricity(e = c/a, c为焦点间距的一半)偏心率（用来描述轨道的形状）
+当e=0时		圆
+当0<e<1时	椭圆
+当e=1时		抛物线
+当e>1时		双曲线
+perihelion近日点
+aphelion远日点
+sector velocit扇形速度点相对于给定中心的速度；扇形速度
+centrol force辏力；有心力；中心力（辏：<动>车轮的辐聚集到中心，引申为聚集）
+moon卫星
+comet彗星
+cutaway view剖视图
+solar day太阳日
+singularity奇点(has zero volume and so has infinite density)
+tidal force潮汐力
+binary star system双星系统
+false-color image伪色图
+
+
+
+C14
+periodic motion周期运动：
+Periodic motion is motion that repeats itself in a definite cycle.
+definite cycle不变的循环
+周期运动的周期不变（为常数）。有周期性规律但周期为函数的，不叫周期运动。
+stable/unstable equilibrium position稳定/不稳定平衡位置
+restoring force回复力
+angular frequency角频率
+simple harmonic motion(SHM)简谐运动
+sinusoidal function正弦函数
+phase angle相位角
+initial position初位置
+initial velocity初速度
+angular simple harmonic motion(angular SHM)角简谐运动
+torsion constant扭转常数；扭转常量
+simple pendulum单摆
+massless string轻绳
+for sufficiently small amplitude/angle对于足够小的振幅/角度
+physical pendulum物理摆
+axis of rotation旋转轴；转轴
+damped oscillation阻尼振荡
+underdamping欠阻尼
+critical damping临街阻尼
+overdamping过阻尼
+driven/forced oscillation受迫振动
+resonance共振
+natural frequency自然频率
+pendulum bob摆锤
+dashed line/curve虚线
+radical根号
+
+
+
+C15
+propagate传播
+mechanical wave机械波
+(wave) disturbance（波的）扰动
+medium介质
+periodic wave周期波
+wave function波函数
+wave equation波方程
+transverse wave横波
+longitudinal wave纵波
+mass per unit length质量线密度；单位长度质量
+mass per unit area质量面密度；单位面积质量
+wave power波的功率
+wave intensity波的强度
+wave superposition波的叠加
+principle of superposition叠加原理
+standing wave驻波
+traveling wave行波
+incident wave入射波
+reflected wave反射波
+node波节
+antinode波腹
+normal mode简正模
+destructive interference相消干涉
+constructive interference相长干涉
+be in phase with each other同相
+be out of phase with each other反相
+inverse-square law (for intensity)（辐射强度的）平方反比定律
+fundamental frequency基频
+harmonic谐波
+harmonic series谐波系；泛音列
+overtone陪音；泛音
+harmonic content谐波含量；谐波内容
+harmonic analysis谐波分析
+Fourier series傅里叶级数
+reference circle参考圆；分度圆
+reference point参考点
+phasor method相量法
+binomial theorem二项式定理
+wave pulse（波）脉冲
+periodic wave周期波
+crest（波）峰
+trough（波）谷
+compression/rarefaction密集/稀疏
+phase difference相位差
+transverse/longitudinal wave纵波/横波
+be a half-cycle out of phase相位差半个周期
+wave number(k)波数
+
+
+Any periodic wave can be represented as a combination of sinusoidal waves.
+
+In many important situations, the wave speed is determined entirly by the mechanical properties of the medium.
+
+The wave speed is the speed with which we have to move with the wave to keep alongside a point of a given phase.
+
+机械波：
+1.波速由介质性质决定
+2.介质不移动，只振动，“波形”移动
+3.机械功是波运动的原因，波传递能量，不传递物质
+
+
+
+C16
+sound wave声波
+pressure amplitude压强振幅
+displacement amplitude位移振幅
+molar mass摩尔质量
+ratio of heat capacities/heat capacity ratio(\gamma)比热容比（定压比热C_{p}与定容比热C_{v}之比）
+bel贝尔
+decibel scale分贝标度
+intensity(of sound wave)（声波）强度
+sound intensity level(\beta)声强级
+standing sound wave驻声波
+integer multiple(s) of ... ……的（各）整数倍
+in phase同相
+out of phase异相；反相
+beat拍
+beat frequency拍频
+Doppler effect多普勒效应
+emitted/received frequency发射/接受频率
+source of sound声源
+velocity relative to ... 相对于……的速度
+shock wave冲击波
+wave front波前(a surface of constant phase)
+diaphragm隔膜
+Kundt's tube孔脱管（视频？）
+audible range听觉范围(20-20000Hz)
+ultrasonic/infrasonic（对于人）超声的/次声的
+Eustachian tube咽鼓管；欧式管
+loudness响度
+pitch音高
+timbre/tone color/quality音色（乐音：基频的整数倍。噪音：任意频率）
+white noise白噪声（包含20-20000Hz内的所有频率）
+gas constant(R)气体常量
+trigonometric identity三角学恒等式（和差化积，积化和差）
+sound barrier音障；声障
+supersonic超音速的
+Mach number马赫数
+Mach马赫
+
+The phase of the wave is determined by the value of x − vt, so t increasing is equivalent to x decreasing with t constant.
+
+
+
+C17
+absolute/Celsius/Fahrenheit temperature scale绝对/摄氏/华氏温标
+conducting/insulating material导热/绝热材料
+gas thermometer气温计
+extrapolate（假定现有条件在未知情况下也成立地）推断；外推
+thermal expansion热膨胀
+thermal stress热应力/变温应力
+coefficient of linear expansion线性膨胀系数；线胀系数
+coefficient of volume expansion体积膨胀系数；体胀系数
+heat热量
+a quantity of一定量的
+specific heat (capacity)/heat capacity比热容
+isolated system孤立系统/绝热系统
+algebraic sum代数和
+conduction（热）传导
+convection（热）对流
+(electromagnetic) radiation（电磁）热辐射
+heat current热流
+thermal conductivity热传导率
+surface area表面积
+Stefan-Boltzmann constant(\sigma)斯蒂芬-玻耳兹曼常数
+number of decimal places小数位数
+specific heat at constant pressure定压比热容
+molar heat capacity at constant pressure定压摩尔比热容
+specific heat at constant volume定容比热容
+molar heat capacity at constant volume定容摩尔比热容
+rule of Dulong and Petit
+phase of matter物态
+phase change/phase transition物态变化
+states of matter物质的状态（如：理想气体具有某p, V, T称为理想气体的某一特定状态）
+heat of fusion (or sometimes latent heat of fusion)熔化热
+蒸发热又叫汽化热，与熔化热、升华热统称为相变热或潜热(latent heat)
+freeze凝固
+phase equilibrium相平衡
+heat of vaporization蒸发热/汽化热（液变气）
+condense液化
+calorimetry热量测定
+calorimeter热量计
+emissivity(e)发射率/比辐射率/发射系数
+75题 The hot glowing surfaces of stars emit energy in the form of electromagnetic radiation. It is a good approximation to assume e = 1 for these surfaces.
+sublime升华
+heat of sublimation升华热
+supercooled过冷的
+superheated过热的
+radiator暖气片；散热器
+heat pump热泵
+coal-fired electric-generating plants火力发电厂
+nuclear-powered electric-generating plants核能发电厂
+thermal coductivity导热性
+capillary毛细管
+bimetallic strip（用于恒温器中的）双金属片
+resistance thermometer电阻温度计
+absolute zero绝对零度
+calorie(cal)卡路里(the amount of heat required to raise the temperature of 1 gram of water from 14.5℃ to 15.5℃)
+felt毛毡
+rock wool岩棉
+thermal resistance热敏电阻
+forced convection强制对流
+natural/free convection自然对流
+电风扇扇叶之所以要那么大是因为热对流的heat flow与表面积成正比，所以，头顶上的电风扇引起的对流heat flow比台式电风扇大得多。
+Sir James Dewar杜瓦
+Dewar flask杜瓦瓶
+cancel (the) common factor(s)约去公因数
+take out (the) common factor(s)提取公因数
+the highest/greatest common factor最大公约数
+factoring因式分解
+
+
+
+C18
+state variable状态变量
+standard temperature and pressure(STP)标准状况(273K, 1 atm)
+ideal-gas equations of state理想气体状态方程
+van der Waals equation范德华方程
+equilibrium state平衡状态（系统中压强和温度均匀统一）
+number of moles摩尔数
+pure substance纯净物
+Avogadro's number(N_{A})阿伏伽德罗常数
+kinetic-molecular model of an ideal gas理想气体的动能-分子模型（自译）
+translational/rotational/vibrational kinetic energy平动/角/振动动能
+Boltzmann constant(k = R/N_{A})玻耳兹曼常数
+monatomic单原子分子的
+diatomic双原子分子的
+molecular speed分子速率
+Maxwell-Boltzmann distribution function[f(v)]麦克斯韦-玻耳兹曼分布函数
+phase diagram物态图
+triple point三相点，三态点
+critical point临界点
+isotherm等温线
+critical temperature临界温度
+Coulomb's law库仑定律
+potential well势能阱
+isotope同位素
+Periodic Table元素周期表
+root-mean-square speed/rms speed均方根速率
+principle of equipartition of energy能量均分定理；能量均分定律；能量均分原理；能量均分
+activation energy（化学反应的）活化能
+temperature gradient温度梯度
+dark nebula(pl. nebulae)暗星云
+interstellar medium星际介质
+troposphere对流层
+
+
+
+C19
+thermodynamic process/system热力学过程/热力学系统
+initial state初态
+final state末态
+the zeroth/first/second law of thermodynamics热力学第零/一/二定律
+adiabatic/isochoric/isobaric/isothermal process绝热/等体积/等压/等温过程
+adiabat/isochor/isobar/isotherm绝热/等体积/等压/等温线
+free expansion自由扩张
+cyclic process循环过程
+statistical-mechanics统计力学
+
+
+
+C20
+reversible/irreversible process可逆/不可逆过程
+reversibility可逆性
+heat engine热机
+heat bump热泵
+thermal efficiency热效率
+refrigerator冰箱；冷冻机；制冷机（我觉得，既然heat engine译为热机，那执行相反过程的就叫“冷机”好了）
+coefficient of performance制冷系数；制冷性能系数
+working substance工作物质
+heat reservoir热库；储热器
+Otto cycle奥托循环
+compression ratio压缩比
+Carnot cycle卡诺循环
+entropy熵：a quantitative measure of the disorder of a system
+compressor压气机；压缩机
+condenser冷凝器
+expansion valve膨胀阀
+evaporator蒸发器
+(four-stroke) internal-combustion engine（四冲程）内燃机
+pre-ignition早燃
+detonation爆震；爆燃
+octane rating辛烷值
+macroscopic/microscopic state宏观/微观状态
+intake/exhaust valve进气门/排气门
+intake/compression/power/exhaust stroke进气/压缩/做功/排气冲程
+Diesel cycle柴油机循环；狄塞尔循环
+
+
+
+C21
+静电力方向的三种表达方式（与物理无关）
+Electric force is repulsive for like charges, attractive for unlike charges.
+Charges of the same sign repel each other, charges of opposite sign attract.
+The force is repulsive if q1 and q2 have the same sign, attractive if they have opposite signs.
+
+eletric charge电荷
+conductor导体
+insulator绝缘体
+electrostatics静电力学
+proton质子
+neutron中子
+electron电子
+nuclear force核力
+the structure of atom原子结构
+electric field电场
+test charge检验电荷
+source point源点
+field point场点
+charge distribution电荷分布
+linear charge density(\lambda)电荷线密度
+surface charge density(\sigma)电荷面密度
+volume charge density(\rho)电荷体密度
+eletric field line电场线
+tangent to ... ……的切线
+be in the direction of ... 沿……的方向
+electric dipole电偶极子
+electric dipole moment电偶极矩（电偶极子的电矩）
+pith木髓
+numerator分子
+denominator分母
+dielectrics/dielectric material电介质；可被极化的绝缘材料
+electric quadrupole电四极子
+
+
+
+C22
+electric flux(\Phi_{E})电通量
+Gauss's law高斯定律
+with a high degree of symmetry有高度的对称性
+高斯公式的应用中如何利用对称性：
+For spherical symmetry, use a concentric spherical surface. For cylindrical symmetry, use a coaxial cylindrical surface with flat ends perpendicular to the axis of symmetry(like a soup can). For planar symmetry, use a cylindrical surface(like a tuna can) with its flat ends parallel to the plane.
+Faraday's ice-pail experiment法拉第冰桶实验
+Van de Graaff electrostatic generator范·德·格拉夫起电机
+F is linear in x/F is a linear function of x F与x为线性关系；F是x的线性函数
+
+
+
+C23
+electric potential energy电势能
+in the presence of存在……时；存在……的情况下
+potential(V)电势
+point charge点电荷
+a collection of point mass/charge质点系/点电荷系
+potential difference between a and b/potential of a with respect of b(V_{a} - V_{b})ab间的电势差/a相对于b的电势
+equipotential surface等势面
+positron正电子
+dielectric strength电介质强度
+potential gradient电势梯度
+
+
+
+C24
+capacitor电容器
+capacitance(C)电容
+parallel-plate capacitor平行板电容器
+(be connected) in series/parallel串联/并联
+equivalent capacitance等效电容
+energy density(u)（电场）能量密度
+dielectric constant(K)介电常数
+permittivity(\epsilon)电容率
+dielectric breakdown介质击穿
+polarization（绝缘体的）极化
+polarized被极化的
+free charge自由电荷
+bound charge束缚电荷（即induced charge）
+The charges are not free to move indefinitely, as they would be in a conductor, because each charge is bound to a molecule. They are in fact called bound charges to distinguish them from the free charges that are added to and removed from the conducting capacitor plates. In the interior of the material the net charge per unit volume remains zero. As we have seen, this redistribution of charge is called polarization, and we say that the material is polarized.
+farad(F)法拉
+geometric mean几何平均数
+electrometer静电计
+paraffin煤油
+polystyrene聚苯乙烯
+Polyethylene/polythene聚乙烯
+benzene苯
+mica云母
+Polyvinyl chloride聚氯乙烯
+Plexiglas亚克力；树脂玻璃；有机玻璃
+Neoprene一种合成橡胶
+Germanium(Ge)锗（类金属）
+Glycerin甘油
+electrolyte电解液；电解质
+
+
+
+C25
+current(I)电流
+current density(\vec(J))电流密度
+ampere(A)安培
+concentration(n)浓度（与化学中的浓度同名不同义）
+charge carrier电荷携带者
+drift velocity漂移速度
+resistivity(\rho)电阻率
+conductivity电导率（电阻率的倒数）
+Ohm's law欧姆定律
+temperature coefficient of resistivity电阻率的温度系数
+resistor电阻器；电阻
+resistance(R)电阻；电阻值
+emf=electromotive force(italic E)电动势
+volt(V)伏特
+internal resistance内阻
+terminal potential difference端压
+circuit element电路元件
+electrical energy电能
+conduction导电过程
+metallic crystal金属晶体
+ion core离子核
+myelin髓鞘质
+axon轴突
+thermistor热敏电阻
+electromagnet电磁体
+diode二极管
+anode阳极
+cathode阴极
+electroconvulsive therapy电休克疗法
+upper/lower limit上限/下限
+
+
+
+C26
+direct current(dc)直流电
+alternating current(ac)交流电
+direct-current circuit直流电路
+alternating-current circuit交流电路
+equivalent resistance等效电阻；等效电阻值
+Kirchhoff's junction/loop rule基尔霍夫节点/回路定律；基尔霍夫电流/电压定律
+conservation of charge电荷守恒
+d'Arsonval galvanometer d'Arsonval检流计
+deflection偏移
+shunt resistor分流电阻
+shunt分流器，分流，分路（本意为转轨）
+ammeter安培表；电流表
+voltmeter伏特表；电压表
+ohmmeter欧姆表
+potentiometer电位计；分压器
+asympototical渐进的
+approach ... asympototically逐渐逼近……
+time constant/relaxation time时间常数；时间常量/驰豫时间
+charging充电
+discharging放电
+power line输电线；电源线
+household wiring家庭电路
+hot火线
+neutral零线
+ground地线
+fuse保险丝；熔丝
+circuit breaker断路器；断路开关
+collect (like) terms合并同类项
+
+
+
+C27
+magnetic force/interaction磁力
+magnetic field磁场
+magnetic field strength磁场强度
+tesla(T)特斯拉
+magnetic field line磁感线
+magnetic flux(\Phi_{B})磁通量
+weber(Wb)韦伯
+velocity selector速度选择器；选速器
+magnetic (dipole) moment磁偶极矩（磁偶极子的磁矩）
+magnetic torque磁力矩
+electric motor电动机
+dc motor直流电动机
+induced emf感生电动势
+back emf反电动势
+Hall effect霍尔效应
+Hall potential霍尔电压
+permanent magnet永磁体
+magnetic declination/variation磁偏角
+magnetic inclination磁倾角
+geomagnetic north/south地磁北极/南极
+magnetic monopole磁单极子
+Oersted奥斯特
+cyclotron回旋加速器
+magnetron磁电管
+helix螺旋
+mass spectrometer质谱仪器
+
+
+
+C28
+unit vector单位向量
+law of Biot and Savart毕奥-萨伐尔定律
+loop线圈
+Ampere's law安培定律
+line integral线积分
+solenoid(with n turns)（n圈）线圈
+closely/tightly wound solenoid密绕线圈
+toroidal solenoid/toroid环形线圈
+midpoint中点
+magnetic material磁性材料
+magnetization(\vec(M))磁化强度
+paramagnetic顺磁的
+paramagnetism顺磁性
+diamagnetic抗磁的
+diamagnetism抗磁性
+permeability(\mu)磁导率
+relative permeability(K_{m})相对磁导率
+magnetic susceptibility(\chi_{m})磁化率
+ferromagnetic铁磁的
+ferromagnetism铁磁性
+pinch effect箍缩效应
+(nuclear) fusion核聚变
+(nuclear) fission核裂变
+Bohr magneton(\mu_{B})玻尔磁子
+magnetic domain磁畴
+saturation magnetization饱和磁化强度
+hysteresis[ˌhɪstə'ri:sɪs]磁滞（现象）
+
+
+
+C29
+Faraday's law法拉第定律
+time rate of change of ... ……随时间的变化率
+Lenz's law楞次定律
+coil线圈
+motional emf动生电动势
+conduction current传导电流
+displacement current位移电流
+time-varying随时间变化的
+Maxwell's equations麦克斯韦方程组
+alternator/ac source/alternating-current generator交流发电机
+commutator换向器
+dynamo发电机
+electromagnetic induction电磁感应
+eddy current涡流
+Meissner Effect迈斯纳效应
+
+
+
+C30
+fluorescent light荧光灯（日光灯）
+mutual inductance(M)互感（系数）
+henry(H)亨利
+inductance电感
+inductance/self-inductance(L)自感
+self-induced emf自感电动势
+inductor电感；电感器；电抗器
+magnetic-field energy磁场能
+magnetic energy density(u)磁场能量密度
+growth增加
+decay减少
+electrical oscillation电振荡；LC振荡
+magnetic ballast电感镇流器
+transistor晶体管
+magnetic eruption磁暴
+series级数
+series expansions(for the exponentials)（指数函数的）级数展开式
+
+
+
+C31
+phaor相量（相位矢量）
+alternating current交变电流
+rectified被整流的
+rectified average整流平均值
+current/voltage amplitude电流/电压振幅
+reactance电抗
+inductive reactance感抗
+capacitive reactance容抗
+impedance阻抗
+power factor功率因数
+resonance谐振（现象）
+rectifier整流器
+full-wave rectifier ciucuit全波整流器线路
+low-pass filter低通滤波器
+high-pass filter高通滤波器
+transient瞬变现象
+ferrite铁氧体
+
+
+
+C32
+electromagnetic wave电磁波
+electromagnetic spectrum电磁光谱
+visible light可见光
+plane wave平面波
+energy flow rate姑且直译为“能量流动率”
+Poynting vector Poynting矢量
+radiation pressure辐射压
+electromagnetic momentum电磁动量
+standing electromagnetic wave姑且直译为“电磁驻波”
+transmitter发射机
+emanate from ...从……发出
+postulate假定
+polarization（电磁波的）偏振
+linearly polarized线偏振的
+index of refraction/refractive index折射率
+
+
+
+C33
+propogation speed传播速度
+ray光线；射线
+reflection反射
+refraction折射
+smooth interface光滑界面
+incident/reflected/refracted ray入射/反射/折射光线
+normal to the interface交界面的法线
+lie in a single plane在同一平面内
+plane of incidence入射平面
+law of reflection/Snell's law反射定律
+law of refraction折射定律
+angle of incidence/reflection/refraction入射/反射/折射角
+total internal reflection全反射；全内反射
+critical angle临界角
+polarizing filter/polarizer偏振滤光片；偏光片
+polarizing axis
+analyzer
+photocell光电感应器
+natural light自然光
+Malus's law
+Brewster's law布儒斯特定律
+Huygen's principle惠更斯原理
+at one instant某一时刻
+wavelet小波
+photon/quantum(pl. quanta)光子；光量子
+isotropic material各向同性的材料
+geometric optics几何光学（研究光的“光线”性质）
+physical optics物理光学（研究光的波性质）
+aqueous humor房水；眼房水
+binocular双筒望远镜
+hypotenuse（直角三角形中的）弦
+light pipe光管；光导管
+endoscope内窥镜
+bladder膀胱
+colon结肠（大肠的一部分）
+bronchial tube支气管
+fiber optics光导纤维；光纤
+dispersion色散
+Polaroid宝丽来（照相机）；偏光薄膜
+dichroism二向色性
+linear/circular polarization线偏振；圆偏振
+elliptically polarized椭圆偏振的
+birefringence双折射
+quarter-wave plate四分之一波偏振片
+photoelasticity光弹性
+scattering of light光的散射
+congruent（三角形）全等的
+mirage海市蜃楼
+
+
+
+C34
+object point物点
+image point像点
+real image实像
+virtual image虚像
+erect（像）直立的（不颠倒的）
+inverted（像）上下颠倒的
+lateral magnification(m)横向放大率，我译为“侧视放大率”
+image height(y')像高
+object height(y)物高
+focal point焦点
+focal length(f)焦距
+concave mirror凹面镜
+convex mirror凸面镜
+vertex（镜面的）顶点
+parallel rays平行光
+converge汇聚；聚集
+diverge发散；岔开
+object distance(s)物距
+image distance(s')像距
+plane/spherical mirror平面/球面镜
+single refracting surface单反射表面
+
+The equation for a plane surface can be obtained from the corresponding equation for a spherical surface by setting R=\infty.
+
+paraxial/nonparaxial rays近轴/非近轴光线
+spherical aberration球面像差
+thin lens薄透镜
+lensmaker's equation姑且直译为“透镜制造商的方程”
+radius(pl. radii) of curvature曲率半径
+center of curvature曲率中心
+sign rule符号规定
+shutter speed快门速度
+aperture光圈
+reduced/enlarged image缩小的/放大的像
+light-sensitive感光的
+f-number f数
+cornea角膜
+lens晶状体
+nearsighted/myopic eye近视眼
+farsighted eye远视眼
+power（透镜的）屈光力
+diopter屈光度
+simple magnifier简单放大镜
+angular size视大小；视直径；角大小
+angular magnification角放大率
+microscope显微镜
+telescope望远镜
+objective lens物镜
+eyepiece目镜
+reflecting telescope反射望远镜
+chromatic aberration色差
+point object点物体
+extented object扩展物体
+optic axis光轴
+principal ray主光线
+graph paper/quadrille-ruled paper方格纸；绘图纸
+contact lenses隐形眼镜
+positive/negative lens正/负透镜（焦距为正/负的透镜）
+virtual object虚物
+light-tight不透光的（tight密封的）
+exposure曝光度
+scanning electron micrograph扫描电子显微镜（扫描电镜）拍摄的照片
+retinal rod/cone视杆细胞/视锥细胞
+ligament韧带
+ciliary muscle睫状肌
+vitreous humor玻璃体
+fovea centralis中间凹
+presbyopia老花眼
+astigmatism散光
+subtend对（角）to be opposite to an angle
+Keck telescope凯克望远镜（世界最大的反射望远镜）
+housing（机器的）外壳
+
+
+
+C35
+coherent source相干光源
+monochromatic light单色光
+coherence相干性
+two-source interference双缝干涉
+bright/dark fringe亮/暗纹
+interference in thin films薄膜干涉
+Michelson interferometer迈克尔逊干涉仪
+compensator plate补偿板
+ether以太
+special/general theory of relativity狭义/广义相对论
+diffraction gratings衍射光栅
+airborne空气传播的
+interference fringes干涉条纹
+law of sines/cosines正弦/余弦定理
+Newton's rings牛顿圈
+photovoltaic光电池的
+beam splitter分光镜
+Michelson-Morley Experiment迈克尔逊-莫雷实验
+
+
+
+C36
+Fresnel diffraction菲涅尔衍射(near-field)
+Fraunhofer diffraction夫琅禾费衍射(far-field)
+single-slit diffraction单缝衍射
+X-ray diffraction X射线衍射
+Bragg reflection布拉格反射（现象）
+Bragg condition布拉格条件
+resolving power分辨力
+Airy disk艾里斑/爱里斑
+Rayleigh's criterion瑞利判据
+transcendental function/equation超越函数/方程
+spectroscopy光谱学
+transmission grating透射光栅
+grating spacing光栅间距
+first-order/second-order/nth-order一阶的/二阶的/n阶的
+reflectiong grating反射光栅
+grating spectrograph光栅摄谱仪
+spectrophotometer分光光度计；光谱仪
+crystal lattice晶格
+
+
+
+C37
+invariance of physical laws物理定律的不变性
+simultaneity同时性
+time dilation时间膨胀
+proper time本征时间（proper固有的；真正的）（本征时间最短）
+length contraction长度收缩
+proper length本征长度（本征长度最大）
+Lorentz transformation洛伦兹变换
+relativistic相对论的
+relativistic momentum相对论动量
+relativistic kinetic energy相对论动能
+rest energy静止能量
+twin paradox双生子佯谬
+rest mass静止质量
+material particle物质粒子
+pion \pi介子
+
+
+
+C38
+Planck's constant(h)普朗克常量
+photoelectric effect光电效应
+work function功函数
+stopping potential遏止电压
+photon production光子产生
+photon scattering光子散射
+pair production电子对产生
+Compton scattering康普顿散射
+annihilate湮灭
+bremsstrahlung韧致辐射；制动辐射
+Heisenberg uncertainty principle海森堡测不准原理(for position and momentum/for energy and time)
+Isaac Newton艾萨克·牛顿
+Albert Einstein阿尔伯特·爱因斯坦
+wave-particle duality波粒二象性
+threshold frequency阈频率
+photoelectron光电子
+photocurrent光电流
+potassium钾
+cesium铯
+melanin黑色素
+irradiation照射
+thermionic热电子的
+tungsten钨
+computed tomography计算体层摄影
+phosphorus磷
+principle of complementarity互补原理；并协原理
+photomultiplier光电倍增管（光信号→电信号）
+
+
+
+C39
+De Broglie wave德布罗意波/物质波
+electron microscope电子显微镜
+nuclear atom含核原子
+Rutherford scattering experiments卢瑟福\alpha粒子散射实验
+atomic line spectra原子光谱
+energy level能级
+excite激发
+Bohr model玻尔模型
+principal quantum number(n)主量子数
+Rydberg constant里德伯常量
+multiplier乘数；倍数
+orbital radius轨道半径
+orbital speed轨道速度
+laser激光
+stimulated emission受激发射
+polulation inversion粒子数反转
+blackbody radiation黑体辐射
+Stefan-Boltzmann law斯蒂芬-玻耳兹曼定律
+Wien displacement law维恩位移定律
+Planck radiation law普朗克辐射定律
+spectral emittance [I(v)] 姑且直译为“光谱发射度”
+thermal neutron热中子
+transmission electron microscope透射电子显微镜（透射电镜）
+atomic spectra原子光谱
+emission/absorption line spectrum发射/吸收光谱
+spectral line光谱线
+scintillation闪烁
+lithium锂
+ground level基态
+excited level激发态
+excited atom受激原子
+ionization energy（第一）电离能
+reduced mass约化质量
+deuterium氘；重氢
+deuteron氘核
+four-level laser四能级激光器
+metastable state亚稳态
+sunspot太阳黑子
+
+p1445 In a sense, each electron wave interfere with itself.
+
+
+
+C40
+quantum mechanics量子力学
+Schr\"odinger equation薛定谔方程
+probability distribution function/probability density概率密度（函数）
+stationary state定态
+particle in a box箱中粒子；盒中粒子
+infinitely deep square potential well无限深方形势井
+normalization标准化
+infinite discontinuity无穷间断点
+unity一
+finite potential well有限深势井
+bound state束缚态
+continuity连续性
+potential barrier势垒
+tunneling量子隧穿
+quantum harmonic oscillator量子谐振子
+mechanical/Newtonian harmonic oscillator机械谐振子；牛顿力学谐振子
+free particle自由粒子
+complex conjugate共轭复数
+wave packet波包
+boundary condition边界条件
+Josephson junction约瑟夫逊结；超导隧道结
+scanning tunneling microscope姑且直译为“扫描隧穿显微镜”
+Hermite function埃尔米特函数
+
+
+
+C41
+three-dimensional三维的
+time-independent与时间无关的
+cubical立方体状的
+a function of x only仅与x有关的函数
+quantum number量子数
+degeneracy简并
+hydrogen atom氢原子
+orbital angular momentum(L)轨道角动量
+orbital quantum number(l)角量子数
+Zeeman effect塞曼效应
+interaction energy(U)相互作用能
+magnetic quantum number(m_{l})磁量子数
+Bohr magneton(\mu_{B})玻尔磁子（玻尔模型中取n=1即基态时的磁偶极矩，因此为磁偶极矩的自然单位）
+electron spin电子自旋
+spin angular momentum(S)自旋角动量
+spin quantum number(s)
+spin magnetic quantum number(m_{s})自旋（磁）量子数
+many-electron atom多电子原子
+screening屏蔽效应
+Moseley's law姑且直译为“莫斯利定律”
+characteristic x-ray spectra特征X射线光谱
+exclusion principle（泡利）不相容原理
+seperation of variable变量分离；分离变量
+spectroscopic notation光谱学符号
+shell壳层
+subshell亚壳层
+positronium电子偶素
+muonic atom \mu原子
+atomic number原子序数
+gyromagnetic ratio磁旋比
+selection rules选择定则
+allowed/forbidden transition容许/禁戒跃迁
+Stern-Gerlach experiment
+Paul Dirac狄拉克
+quantum eletrodynamics(QED)量子电动力学
+spin-orbit coupling自旋-轨道耦合
+fine structure精细结构
+hyperfine structure超精细结构
+central-field approximation中心场近似
+fluorine氟
+halogen|ˈhælədʒən|卤素
+noble gas惰性气体
+valence价（电子）
+beryllium铍
+alkaline earth碱土金属
+bromine溴
+iodine碘
+astatine砹
+group（元素周期表中的）族
+barium钡
+electron configuration电子排布
+argon氩
+transition series过渡元素
+rare earth elements稀土元素（镧系）
+actinide series锕系
+forensic法医的
+absorption edge姑且直译为“吸收边界”
+abundance丰度
+
+
+
+C42
+ionic/covalent/van der Waals/hydrogen bond离子键/共价键/范德华力/氢键
+effective force constant实际劲度系数/有效劲度系数
+interatomic force原子间作用力
+energy band能带
+metallic bond金属键
+condensed matter凝聚态
+valence band价带
+hole（价带中的）电洞；空穴
+energy gap能隙
+band gap
+conduction band传导带
+free-electron model of metals金属的自由电子模型
+density of states状态密度；态密度
+Fermi-Dirac distribution费米-狄拉克分布
+Fermi energy费米能级
+n-type/p-type semiconductor(n for negative, p for positive)半导体
+donor/acceptor impurities施主/受主杂质
+integrated circuit集成电路
+p-n junction PN结
+forward/reverse bias正向/反向偏压
+Venus金星
+electron affinity（第一）电子亲和能
+binding energy结合能
+methane甲烷
+regular tetrahedron正四面体
+hybrid wave function杂交波函数
+polar molecule极性分子
+long-range order长程有序
+crystal structure晶体结构
+amorphous solid非晶固体
+short-range order短程有序
+face-centered cubic(fcc)面心立方最密堆积
+body-centered cubic(bcc)体心立方堆积
+hexagonal close packed(hcp)六方最密堆积
+lattice point晶格点/点阵点
+basis（晶体的）结构基元
+perfect crystal/ideal single crystal理想（单）晶体
+diamond structure金刚石结构
+halide卤化物
+metallic crystal金属晶体
+close packing密堆积
+polymer聚合物
+grain boudaries晶粒边界
+point defect点缺陷
+interstitial atom间隙原子
+vacancy（晶体中的）空位
+substitutional impurity替位式杂质
+arsenic砷
+dislocation位错；差排
+edge dislocation刃位错
+octant八分圆；八分球
+ductility延性
+malleability展性
+free-electron concentration/electron concentration（自由）电子密度
+intrinsic/compensated semiconductor本征/补偿半导体
+intrinsic conductivity本征导电性
+doping（在半导体中）掺杂
+donor/acceptor level施主/受主能级
+donor施主
+acceptor受主
+majority/minority carriers多数/少数载流子
+diode rectifier整流二极管
+saturation current（反向）饱和电流
+recombination current姑且直译为“重组电流”
+generation current姑且直译为“生成电流”
+avalanche breakdown雪崩击穿
+Zener breakdown齐纳击穿
+Zener diode齐纳二极管/稳压二极管
+light-emitting diode(LED)发光二极管；LED灯
+photovoltaic effect光生伏特效应
+solar cell太阳能电池
+charge-coupled device(CCD)电荷耦合器件
+bipolar junction transistor双极型晶体管
+emitter（p-n-p晶体管的）发射区
+base（p-n-p晶体管的）基区
+collector（p-n-p晶体管的）集电区
+power amplifier功率放大器
+field-effect transistor场效应晶体管
+common-emitter circuit共发射极电路
+
+
+
+C43
+nuclide核素
+atomic mass unit原子质量单位
+nucleon核子
+bingding energy结合能
+liquid-drop model液滴模型
+shell model核壳模型
+radioactive decay放射性衰变
+decay constant(\lambda)衰变常数
+half-life(T_{1/2})半衰期
+lifetime(T_{mean})（平均）寿命
+nuclear reactions核反应
+exoergic放能的
+endoergic吸能的
+nucleon/mass number(A)核子数；质量数
+alpha particle \alpha粒子
+beta particle \beta粒子
+relative biological effectiveness(RBE)/quality factor(QF)相对生物效应
+diffusion rate扩散率
+nuclear spin核自旋
+nuclear magneton(\mu_{n})核磁子
+quark夸克
+transceiver无线电收发机
+nuclear magnetic resonance核磁共振
+magnetic resonance imaging(MRI)磁共振成像
+mass defect质量亏损
+binding energy per nucleon核子平均结合能
+strong interaction强相互作用
+saturation（核力的）饱和性
+semiempirical mass formula半经验质量公式
+magic number（质子数或中子数为）魔数（时结构异常稳定，即有异常高的结合能）
+nuclear stability核稳定性
+(nuclear) radioactivity（核）放射性
+alpha decay \alpha衰变
+beta decay \beta衰变
+electron capture电子捕获
+antineutrino反中微子
+neutrino中微子
+electron neutrino电中微子
+decay rate衰变率
+activity活度
+curie(Ci)居里
+becquerel(Bq)贝克勒尔
+radioactive dating辐射测年法；同位素测年法
+ionizing radiation电离辐射
+radiation dosimetry辐射剂量测定法
+absorbed dose吸收剂量
+gray(Gy)戈瑞
+(biologically) equivalent dose（人体）等效剂量
+sievert(Sv)希沃特
+nuclear medicine核医疗学
+thyroid甲状腺
+tracer示踪剂
+reaction energy反应能
+threshold energy（核反应的）阈能
+transuranic elements超铀元素
+neutron activation analysis中子活化分析
+induced/spontaneous fission诱发/自发裂变
+chain reaction链式反应
+nuclear reactor核反应堆
+moderator减速剂
+control rods控制棒
+proton-proton chain质子-质子链反应
+thermonuclear reaction热核反应（高温核聚变）
+cold fusion冷聚变；冷核聚变
+magnetic confinement磁约束
+inertial confinement惯性约束
+decay product衰变产物
+
+
+
+C44
+particle physics粒子物理
+cosmology宇宙学
+fundamental particles基本粒子
+antiparticle反粒子
+mediator姑且译为“介体”
+fundamental interactions基本相互作用
+Yukawa汤川
+meson介子
+virtual particle虚粒子
+Cyclotron回旋加速器
+synchrotron同步加速器
+synchrocyclotron回旋同步加速器
+linear accelerator/linac直线加速器
+strong/electromagnetic/weak/gravitational interaction强/电磁/弱/引力相互作用
+fermion费米子
+boson玻色子
+lepton轻子
+hadron强子
+baryon重子
+lepton number轻子数
+baryon number重子数
+gluon胶子
+color（夸克的）色
+eletroweak interaction电弱相互作用
+grand unified theories大统一理论
+Hubble law哈勃定律
+dark energy暗能量（72.6%总能量）
+dark matter暗物质（22.8%总能量）
+ordinary matter普通物质（4.6%总能量）
+standard model of the universe宇宙的标准模型
+Big Bang大爆炸
+cosmic background radiation宇宙背景辐射
+expanding universe膨胀中的宇宙
+Democritus德谟克利特
+cloud chamber云室
+nucleation成核（现象）
+bubble chamber气泡室
+virtual photon虚光子
+cathode-ray tube阴极射线管
+synchrotron radiation同步加速辐射
+center-of-momentum system动量中心系统；动量中心参考系
+wire chamber姑且直译为“丝室”
+cosmic ray宇宙射线
+graviton引力子；重力子
+coupling constant（用于比较不同相互作用强度的）耦合常数
+Bose-Einstein distribution玻色-爱因斯坦分布
+kaon k介子
+hyperon超子
+strange particle奇异粒子
+isospin同位旋
+parity宇称
+symmetry-breaking interaction不对称相互作用
+Murray Gell-Mann盖尔曼
+flavor（夸克的）味
+up(u)上（夸克）
+down(d)下（夸克）
+strange(s)奇（夸克）
+charmed(c)粲（夸克）
+bottom(b)下（夸克）
+top(t)上（夸克）
+strangeness奇异数
+charm粲（夸克）数
+bottomness下（夸克）数
+topness上（夸克）数
+Mendeleev门捷列夫
+quantum chromodynamics量子色动力学
+Higgs boson希格斯玻色子
+neutrino oscillation中微子振荡
+Super-Kamiokande neutrino detector超级神冈探测器
+supersymmetric theories超对称理论
+redshift红移
+Hubble constant哈勃常数
+cosmological principle宇宙学原理
+unbounded无界的
+bounded有界的
+recession speed退行速度
+nucleosynthesis核合成
+eightfold way姑且直译为“八倍方法”
