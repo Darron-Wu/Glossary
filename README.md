@@ -1,2 +1,2 @@
 # Glossary
-A collection of glossaries
+A collection of glossaries.
